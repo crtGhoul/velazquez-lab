@@ -1,0 +1,101 @@
+{
+ "generated_at": "2026-11-06T08:07:13Z",
+ "repos": {
+  "VoidPurge": {
+   "version": "v1.6.0",
+   "date": "2026-10-28",
+   "asset_name": "VoidPurge.exe",
+   "asset_size": 19691445,
+   "asset_count": 1,
+   "release_url": "https://codeberg.org/crtGhoul/VoidPurge/releases/tag/v1.6.0"
+  },
+  "appmaka": {
+   "version": "v0.18.8",
+   "date": "2026-11-06",
+   "asset_name": "AppMaka_0.18.8_amd64.AppImage",
+   "asset_size": 88316408,
+   "asset_count": 1,
+   "release_url": "https://codeberg.org/crtGhoul/appmaka/releases/tag/v0.18.8"
+  },
+  "clean-apps": {
+   "version": null,
+   "date": null,
+   "asset_name": null,
+   "asset_size": null,
+   "asset_count": 0,
+   "release_url": null
+  },
+  "app-horde": {
+   "version": null,
+   "date": null,
+   "asset_name": null,
+   "asset_size": null,
+   "asset_count": 0,
+   "release_url": null
+  },
+  "droidhorde": {
+   "version": null,
+   "date": null,
+   "asset_name": null,
+   "asset_size": null,
+   "asset_count": 0,
+   "release_url": null
+  },
+  "deadlock-build-guide": {
+   "version": null,
+   "date": null,
+   "asset_name": null,
+   "asset_size": null,
+   "asset_count": 0,
+   "release_url": null
+  },
+  "localdrop": {
+   "version": null,
+   "date": null,
+   "asset_name": null,
+   "asset_size": null,
+   "asset_count": 0,
+   "release_url": null
+  },
+  "locklauncher-android": {
+   "version": "v1.22",
+   "date": "2026-10-23",
+   "asset_name": "LockLauncher-v1.22.apk",
+   "asset_size": 936297,
+   "asset_count": 1,
+   "release_url": "https://codeberg.org/crtGhoul/locklauncher-android/releases/tag/v1.22"
+  },
+  "video-compressor": {
+   "version": null,
+   "date": null,
+   "asset_name": null,
+   "asset_size": null,
+   "asset_count": 0,
+   "release_url": null
+  },
+  "tv-clean-home": {
+   "version": "v1.2.2",
+   "date": "2026-10-23",
+   "asset_name": "TVCleaner-v1.2.2-PC-Tools.zip",
+   "asset_size": 8145770,
+   "asset_count": 2,
+   "release_url": "https://codeberg.org/crtGhoul/tv-clean-home/releases/tag/v1.2.2"
+  },
+  "color-block": {
+   "version": null,
+   "date": null,
+   "asset_name": null,
+   "asset_size": null,
+   "asset_count": 0,
+   "release_url": null
+  },
+  "velazquez-lab": {
+   "version": null,
+   "date": null,
+   "asset_name": null,
+   "asset_size": null,
+   "asset_count": 0,
+   "release_url": null
+  }
+ }
+}
