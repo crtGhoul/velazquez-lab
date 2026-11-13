@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T08:07:13Z",
+ "generated_at": "2026-11-13T03:33:29Z",
  "repos": {
   "VoidPurge": {
    "version": "v1.6.0",
@@ -10,12 +10,12 @@
    "release_url": "https://codeberg.org/crtGhoul/VoidPurge/releases/tag/v1.6.0"
   },
   "appmaka": {
-   "version": "v0.18.8",
-   "date": "2026-11-06",
-   "asset_name": "AppMaka_0.18.8_amd64.AppImage",
-   "asset_size": 88316408,
-   "asset_count": 1,
-   "release_url": "https://codeberg.org/crtGhoul/appmaka/releases/tag/v0.18.8"
+   "version": "v0.18.17",
+   "date": "2026-11-13",
+   "asset_name": "AppMaka_0.18.17_amd64.AppImage",
+   "asset_size": 88504824,
+   "asset_count": 9,
+   "release_url": "https://codeberg.org/crtGhoul/appmaka/releases/tag/v0.18.17"
   },
   "clean-apps": {
    "version": null,
